@@ -49,7 +49,6 @@ my_var.get()
 ### Simple Tkinter application with variables for login screen
 
 ```python
-#!/home/jose-alberto/.virtualenvs/py36tk86/bin/python
 from tkinter import *
 root = Tk()
 
