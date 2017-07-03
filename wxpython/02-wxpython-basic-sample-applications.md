@@ -29,6 +29,14 @@ if __name__ == '__main__':
     app.MainLoop()
 ```
 
+![sample-app-img](files/02-wxpython-basic-sample-applications-a.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-b.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-c.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-d.png)
+
 A different but even longer basic version:
 
 ```python
@@ -67,6 +75,8 @@ if __name__ == '__main__':
     app.MainLoop()
 ```
 
+![sample-app-img](files/02-wxpython-basic-sample-applications-e.png)
+
 A "minimal" test version from the creator of wxPython:
 
 ```python
@@ -103,6 +113,18 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-f.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-g.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-h.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-i.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-j.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-k.png)
 
 An updated version of the previous application:
 
@@ -176,6 +198,14 @@ app = MyApp(0)     # Create an instance of the application class
 app.MainLoop()     # Tell it to start processing events
 ```
 
+![sample-app-img](files/02-wxpython-basic-sample-applications-l.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-m.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-n.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-o.png)
+
 A "Hello World" example:
 
 ```python
@@ -216,3 +246,13 @@ if __name__ == '__main__':
     app = MyApp(False)
     app.MainLoop()
 ```
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-p.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-q.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-r.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-s.png)
+
+![sample-app-img](files/02-wxpython-basic-sample-applications-t.png)
