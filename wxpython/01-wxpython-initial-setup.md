@@ -81,3 +81,5 @@ frame = wx.Frame(None, wx.ID_ANY, "Hello World") # A Frame is a
 frame.Show(True)    # Show the frame.
 app.MainLoop()
 ```
+
+![initial-setup-img](files/01-wxpython-initial-setup-a.png)
