@@ -79,3 +79,5 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+
+![single-image-img](files/03-wxpython-app-displays-single-image-file-a.png)
