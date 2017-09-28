@@ -2,3 +2,4 @@
 
 * Check wxPython development environment details
 * Add and remove widgets dynamically
+* Create basic application template (with menu bar only)
